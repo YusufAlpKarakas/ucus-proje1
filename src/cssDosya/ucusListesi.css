@@ -1,0 +1,11 @@
+.ucusListesi-ul
+{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.ucusListesi-li
+{
+   display: inline-block;
+   margin: 8px;
+}

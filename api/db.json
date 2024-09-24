@@ -1,0 +1,915 @@
+{
+    "flights": [
+      {
+        "lastUpdatedAt": "2024-09-20T01:03:38.212+02:00",
+        "actualLandingTime": "2024-09-19T23:36:04.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "73H"
+        },
+        "baggageClaim": {
+          "belts": [
+            "2"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-19T23:36:04.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T00:03:38.000+02:00",
+        "flightDirection": "A",
+        "flightName": "HV5586",
+        "flightNumber": 5586,
+        "id": "140688853242650194",
+        "isOperationalFlight": true,
+        "mainFlight": "HV5586",
+        "prefixIATA": "HV",
+        "prefixICAO": "TRA",
+        "airlineCode": 164,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "NCE"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:05:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:05:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T02:08:29.226+02:00",
+        "actualLandingTime": "2024-09-20T00:39:52.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "73W"
+        },
+        "baggageClaim": {
+          "belts": [
+            "4"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "KL2570"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T00:39:52.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T01:08:29.000+02:00",
+        "flightDirection": "A",
+        "flightName": "HV5360",
+        "flightNumber": 5360,
+        "id": "140688853242644558",
+        "isOperationalFlight": true,
+        "mainFlight": "HV5360",
+        "prefixIATA": "HV",
+        "prefixICAO": "TRA",
+        "airlineCode": 164,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "FAO"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:10:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:10:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T02:08:29.226+02:00",
+        "actualLandingTime": "2024-09-20T00:39:52.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "73W"
+        },
+        "baggageClaim": {
+          "belts": [
+            "4"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "KL2570"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T00:39:52.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T01:08:29.000+02:00",
+        "flightDirection": "A",
+        "flightName": "KL2570",
+        "flightNumber": 2570,
+        "id": "140688853620926712",
+        "isOperationalFlight": true,
+        "mainFlight": "HV5360",
+        "prefixIATA": "KL",
+        "prefixICAO": "KLM",
+        "airlineCode": 100,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "FAO"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:10:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:10:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T01:58:12.392+02:00",
+        "actualLandingTime": "2024-09-20T00:17:07.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "7M8"
+        },
+        "baggageClaim": {
+          "belts": [
+            "17"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T00:17:07.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T01:26:08.974+02:00",
+        "flightDirection": "A",
+        "flightName": "OR1502",
+        "flightNumber": 1502,
+        "id": "140688854198066480",
+        "isOperationalFlight": true,
+        "mainFlight": "OR1502",
+        "prefixIATA": "OR",
+        "prefixICAO": "TFL",
+        "airlineCode": 231,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "PMI"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:25:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:25:00",
+        "serviceType": "J",
+        "terminal": 3,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T01:16:36.077+02:00",
+        "actualOffBlockTime": "2024-09-20T00:52:03.000+02:00",
+        "aircraftRegistration": "PHMPS",
+        "aircraftType": {
+          "iataMain": "74F",
+          "iataSub": "74Y"
+        },
+        "flightDirection": "D",
+        "flightName": "MP6141",
+        "flightNumber": 6141,
+        "id": "140688853913689881",
+        "isOperationalFlight": true,
+        "mainFlight": "MP6141",
+        "prefixIATA": "MP",
+        "prefixICAO": "MPH",
+        "airlineCode": 122,
+        "publicEstimatedOffBlockTime": "2024-09-20T00:30:00.000+02:00",
+        "publicFlightState": {
+          "flightStates": [
+            "DEP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "MIA",
+            "BOG"
+          ],
+          "eu": "N",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:30:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:30:00",
+        "serviceType": "F",
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T02:35:09.196+02:00",
+        "actualLandingTime": "2024-09-20T00:42:52.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "73H"
+        },
+        "baggageClaim": {
+          "belts": [
+            "6"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "KL2526"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T00:42:52.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T01:28:00.000+02:00",
+        "flightDirection": "A",
+        "flightName": "HV5680",
+        "flightNumber": 5680,
+        "id": "140688853242652920",
+        "isOperationalFlight": true,
+        "mainFlight": "HV5680",
+        "prefixIATA": "HV",
+        "prefixICAO": "TRA",
+        "airlineCode": 164,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "IBZ"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:30:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:30:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T02:35:09.196+02:00",
+        "actualLandingTime": "2024-09-20T00:42:52.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "73H"
+        },
+        "baggageClaim": {
+          "belts": [
+            "6"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "KL2526"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T00:42:52.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T01:28:00.000+02:00",
+        "flightDirection": "A",
+        "flightName": "KL2526",
+        "flightNumber": 2526,
+        "id": "140688853620926354",
+        "isOperationalFlight": true,
+        "mainFlight": "HV5680",
+        "prefixIATA": "KL",
+        "prefixICAO": "KLM",
+        "airlineCode": 100,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "IBZ"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:30:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:30:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T03:02:43.191+02:00",
+        "actualLandingTime": "2024-09-20T01:17:13.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "73H"
+        },
+        "baggageClaim": {
+          "belts": [
+            "4"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "KL2588"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T01:17:13.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T02:01:09.000+02:00",
+        "flightDirection": "A",
+        "flightName": "HV6004",
+        "flightNumber": 6004,
+        "id": "140688853242737214",
+        "isOperationalFlight": true,
+        "mainFlight": "HV6004",
+        "prefixIATA": "HV",
+        "prefixICAO": "TRA",
+        "airlineCode": 164,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "OPO"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:30:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:30:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T03:02:43.191+02:00",
+        "actualLandingTime": "2024-09-20T01:17:13.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "73H"
+        },
+        "baggageClaim": {
+          "belts": [
+            "4"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "KL2588"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T01:17:13.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T02:01:09.000+02:00",
+        "flightDirection": "A",
+        "flightName": "KL2588",
+        "flightNumber": 2588,
+        "id": "140688853620926802",
+        "isOperationalFlight": true,
+        "mainFlight": "HV6004",
+        "prefixIATA": "KL",
+        "prefixICAO": "KLM",
+        "airlineCode": 100,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "OPO"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:30:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:30:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T04:14:18.171+02:00",
+        "actualLandingTime": "2024-09-20T02:10:45.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "73H"
+        },
+        "baggageClaim": {
+          "belts": [
+            "2"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T02:10:45.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T03:05:34.000+02:00",
+        "flightDirection": "A",
+        "flightName": "HV6706",
+        "flightNumber": 6706,
+        "id": "140688853242756384",
+        "isOperationalFlight": true,
+        "mainFlight": "HV6706",
+        "prefixIATA": "HV",
+        "prefixICAO": "TRA",
+        "airlineCode": 164,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "FUE"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:30:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:30:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T02:17:46.155+02:00",
+        "actualLandingTime": "2024-09-20T00:14:45.000+02:00",
+        "aircraftType": {
+          "iataMain": "32S",
+          "iataSub": "32Q"
+        },
+        "baggageClaim": {
+          "belts": [
+            "2"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "DL7510",
+            "KL2573"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T00:14:45.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T01:17:46.000+02:00",
+        "flightDirection": "A",
+        "flightName": "HV5666",
+        "flightNumber": 5666,
+        "id": "140688853242652784",
+        "isOperationalFlight": true,
+        "mainFlight": "HV5666",
+        "prefixIATA": "HV",
+        "prefixICAO": "TRA",
+        "airlineCode": 164,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "LPA"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:35:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:35:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T02:17:46.155+02:00",
+        "actualLandingTime": "2024-09-20T00:14:45.000+02:00",
+        "aircraftType": {
+          "iataMain": "32S",
+          "iataSub": "32Q"
+        },
+        "baggageClaim": {
+          "belts": [
+            "2"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "DL7510",
+            "KL2573"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T00:14:45.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T01:17:46.000+02:00",
+        "flightDirection": "A",
+        "flightName": "DL7510",
+        "flightNumber": 7510,
+        "id": "140688852650617400",
+        "isOperationalFlight": true,
+        "mainFlight": "HV5666",
+        "prefixIATA": "DL",
+        "prefixICAO": "DAL",
+        "airlineCode": 58,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "LPA"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:35:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:35:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T02:17:46.155+02:00",
+        "actualLandingTime": "2024-09-20T00:14:45.000+02:00",
+        "aircraftType": {
+          "iataMain": "32S",
+          "iataSub": "32Q"
+        },
+        "baggageClaim": {
+          "belts": [
+            "2"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "DL7510",
+            "KL2573"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T00:14:45.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T01:17:46.000+02:00",
+        "flightDirection": "A",
+        "flightName": "KL2573",
+        "flightNumber": 2573,
+        "id": "140688853620926718",
+        "isOperationalFlight": true,
+        "mainFlight": "HV5666",
+        "prefixIATA": "KL",
+        "prefixICAO": "KLM",
+        "airlineCode": 100,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "LPA"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:35:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:35:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T02:37:14.190+02:00",
+        "actualLandingTime": "2024-09-20T01:06:07.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "73H"
+        },
+        "baggageClaim": {
+          "belts": [
+            "6"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "KL2579"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T01:06:07.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T01:35:15.000+02:00",
+        "flightDirection": "A",
+        "flightName": "HV6334",
+        "flightNumber": 6334,
+        "id": "140688853242745650",
+        "isOperationalFlight": true,
+        "mainFlight": "HV6334",
+        "prefixIATA": "HV",
+        "prefixICAO": "TRA",
+        "airlineCode": 164,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "VLC"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:35:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:35:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T02:37:14.190+02:00",
+        "actualLandingTime": "2024-09-20T01:06:07.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "73H"
+        },
+        "baggageClaim": {
+          "belts": [
+            "6"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "KL2579"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T01:06:07.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T01:35:15.000+02:00",
+        "flightDirection": "A",
+        "flightName": "KL2579",
+        "flightNumber": 2579,
+        "id": "140688853620926730",
+        "isOperationalFlight": true,
+        "mainFlight": "HV6334",
+        "prefixIATA": "KL",
+        "prefixICAO": "KLM",
+        "airlineCode": 100,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "VLC"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:35:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:35:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-18T10:34:51.286+02:00",
+        "aircraftType": {
+          "iataMain": "74F",
+          "iataSub": "74Y"
+        },
+        "flightDirection": "A",
+        "flightName": "SQ7395",
+        "flightNumber": 7395,
+        "id": "140688854749672846",
+        "isOperationalFlight": true,
+        "mainFlight": "SQ7395",
+        "prefixIATA": "SQ",
+        "prefixICAO": "SIA",
+        "airlineCode": 152,
+        "publicFlightState": {
+          "flightStates": [
+            "CNX"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "LHR"
+          ],
+          "eu": "N",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:40:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:40:00",
+        "serviceType": "F",
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T00:39:19.495+02:00",
+        "actualLandingTime": "2024-09-20T00:31:43.000+02:00",
+        "aircraftType": {
+          "iataMain": "74F",
+          "iataSub": "74Y"
+        },
+        "estimatedLandingTime": "2024-09-20T00:31:43.000+02:00",
+        "flightDirection": "A",
+        "flightName": "SQ7319",
+        "flightNumber": 7319,
+        "id": "140688854749672262",
+        "isOperationalFlight": true,
+        "mainFlight": "SQ7319",
+        "prefixIATA": "SQ",
+        "prefixICAO": "SIA",
+        "airlineCode": 152,
+        "publicFlightState": {
+          "flightStates": [
+            "LND"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "LHR"
+          ],
+          "eu": "N",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:40:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:40:00",
+        "serviceType": "F",
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T02:51:35.159+02:00",
+        "actualLandingTime": "2024-09-20T01:12:56.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "7M9"
+        },
+        "baggageClaim": {
+          "belts": [
+            "16"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T01:12:56.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T02:19:28.251+02:00",
+        "flightDirection": "A",
+        "flightName": "CD454",
+        "flightNumber": 454,
+        "id": "140688852059089232",
+        "isOperationalFlight": true,
+        "mainFlight": "CD454",
+        "prefixIATA": "CD",
+        "prefixICAO": "CND",
+        "airlineCode": 4982,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "RHO"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:40:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:40:00",
+        "serviceType": "C",
+        "terminal": 3,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T03:26:08.244+02:00",
+        "actualLandingTime": "2024-09-20T01:47:32.000+02:00",
+        "aircraftType": {
+          "iataMain": "737",
+          "iataSub": "73H"
+        },
+        "baggageClaim": {
+          "belts": [
+            "17"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T01:47:32.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T02:51:05.046+02:00",
+        "flightDirection": "A",
+        "flightName": "OR1204",
+        "flightNumber": 1204,
+        "id": "140688854198058270",
+        "isOperationalFlight": true,
+        "mainFlight": "OR1204",
+        "prefixIATA": "OR",
+        "prefixICAO": "TFL",
+        "airlineCode": 231,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "RHO"
+          ],
+          "eu": "S",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:45:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:45:00",
+        "serviceType": "J",
+        "terminal": 3,
+        "schemaVersion": "4"
+      },
+      {
+        "lastUpdatedAt": "2024-09-20T04:09:02.056+02:00",
+        "actualLandingTime": "2024-09-20T02:14:28.000+02:00",
+        "aircraftType": {
+          "iataMain": "32S",
+          "iataSub": "32Q"
+        },
+        "baggageClaim": {
+          "belts": [
+            "4"
+          ]
+        },
+        "codeshares": {
+          "codeshares": [
+            "DL7502",
+            "KL2756"
+          ]
+        },
+        "estimatedLandingTime": "2024-09-20T02:14:28.000+02:00",
+        "expectedTimeOnBelt": "2024-09-20T03:06:14.000+02:00",
+        "flightDirection": "A",
+        "flightName": "KL2756",
+        "flightNumber": 2756,
+        "id": "140688853620932052",
+        "isOperationalFlight": true,
+        "mainFlight": "HV5314",
+        "prefixIATA": "KL",
+        "prefixICAO": "KLM",
+        "airlineCode": 100,
+        "publicFlightState": {
+          "flightStates": [
+            "ARR",
+            "EXP"
+          ]
+        },
+        "route": {
+          "destinations": [
+            "LCA"
+          ],
+          "eu": "E",
+          "visa": false
+        },
+        "scheduleDateTime": "2024-09-20T00:50:00.000+02:00",
+        "scheduleDate": "2024-09-20",
+        "scheduleTime": "00:50:00",
+        "serviceType": "J",
+        "terminal": 1,
+        "schemaVersion": "4"
+      },
+      {
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "1544",
+        "content-type": "application/json",
+        "date": "Sat, 21 Sep 2024 20:17:46 GMT",
+        "link": "<https://api.schiphol.nl/public-flights/flights?includedelays=false&sort=%2BscheduleTime&page=1>; rel=\"next\", <https://api.schiphol.nl/public-flights/flights?includedelays=false&sort=%2BscheduleTime&page=226>; rel=\"last\"",
+        "server": "openresty",
+        "x-envoy-upstream-service-time": "413"
+      }
+    ]
+    
+  }
+  
